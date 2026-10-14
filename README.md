@@ -79,7 +79,7 @@ Four-letter tickers are the most common (4,634), followed by three-letter ones (
 
 ## About Me
 
-I'm Tirath, a beginner in data analytics who is building a portfolio one project at a time.
+I'm Tirath, NEW in data analytics who is building a portfolio one project at a time.
 
 - GitHub: https://github.com/Tirath-singh
 - LinkedIn: https://www.linkedin.com/in/tirath-singh-35b550422/
